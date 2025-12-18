@@ -1,10 +1,10 @@
-🧠 NLP Workbench (All-in-One)
+NLP Workbench (All-in-One)
 
 NLP Workbench is a desktop-based Python application that integrates core Natural Language Processing techniques into a single, interactive GUI. It supports text ingestion from multiple file formats and enables preprocessing, sentiment analysis, named entity recognition, topic modeling, and supervised text classification with evaluation and visualization tools.
 
 The project emphasizes data science rigor, robust evaluation, and user-friendly design, making it suitable for both academic analysis and practical NLP experimentation.
 
-✨ Features
+Features
 
 Multi-format input: .txt, .pdf, .docx, .xlsx, .xls
 
@@ -34,7 +34,7 @@ Automatic report generation (PDF or DOCX)
 
 Asynchronous model training with progress bar
 
-🛠️ Tech Stack
+Tech Stack
 
 Python, Tkinter
 
@@ -48,14 +48,14 @@ pandas
 
 Hugging Face Datasets
 
-🚀 How to Run
+How to Run
 pip install -r requirements.txt
 python main.py
 
 
 (Make sure required NLTK and spaCy models are downloaded.)
 
-📄 License & Visibility
+License & Visibility
 
 Repository: Public (read-only for viewers)
 
